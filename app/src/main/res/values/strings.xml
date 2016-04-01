@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceCommunicationDemo</string>
+    <string name="title_activity_service_handl_send_message_to">ServiceHandlSendMessageToActivity
+    </string>
+</resources>
